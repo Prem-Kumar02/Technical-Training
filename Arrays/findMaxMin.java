@@ -1,5 +1,3 @@
-package Arrays;
-
 public class findMaxMin {
   public int minimumDeletions(int[] nums) {
         int n = nums.length;

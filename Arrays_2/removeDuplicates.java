@@ -1,5 +1,3 @@
-package Arrays_2;
-
 public class removeDuplicates {
   public int removeDuplicates(int[] nums) {
         int k=1;

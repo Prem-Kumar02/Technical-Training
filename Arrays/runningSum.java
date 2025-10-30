@@ -1,4 +1,4 @@
-package Arrays;
+
 
 public class runningSum {
   public int[] runningSum(int[] nums) {
