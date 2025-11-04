@@ -1,6 +1,5 @@
 import java.util.*;
-
-public class fibonacci {
+class fibonacci {
   //Memoization
   public int helper(int n, int[] dp){
         if(n<=1) return n;
